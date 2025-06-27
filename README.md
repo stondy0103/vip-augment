@@ -11,6 +11,27 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+### 🖥️ Main Application
+<img src="app.png" alt="Main Application Interface" width="300"/>
+
+### ⏳ Processing Status
+<img src="progressing.png" alt="Processing Progress" width="300"/>
+
+### 📞 Contact Information
+<img src="contact.png" alt="Contact Details" width="300"/>
+
+</div>
+
+
+
+
+
+
+
 ## 🌍 Multi-Language Support
 
 <details>
