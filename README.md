@@ -79,7 +79,6 @@
 
 - 🔄 **Multi-Version Support** - Compatible with various Augment versions
 - 💻 **Windows Optimized** - Full support for Windows 10/11
-- 🌐 **Multi-Language** - Vietnamese, English, Chinese support
 
 ---
 
