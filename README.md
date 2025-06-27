@@ -100,7 +100,7 @@
 
 <div align="center">
 
-**⭐ Star this repo if you find it helpful!**
+**Contact Me to take tool**
 
 *Made with ❤️ by Stondy*
 
