@@ -5,7 +5,7 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-*Công cụ reset chuyên nghiệp cho hệ thống Augment Code với giao diện Flutter hiện đại*
+*Công cụ reset hệ thống Augment Code*
 
 </div>
 
