@@ -77,11 +77,8 @@
 
 ## 🛠️ Features
 
-- ✅ **Automatic Security Check** - Built-in security validation
 - 🔄 **Multi-Version Support** - Compatible with various Augment versions
-- 🗄️ **Safe Database Management** - SQLite operations with backup
 - 💻 **Windows Optimized** - Full support for Windows 10/11
-- 🎨 **Modern UI** - Material Design 3 interface
 - 🌐 **Multi-Language** - Vietnamese, English, Chinese support
 
 ---
