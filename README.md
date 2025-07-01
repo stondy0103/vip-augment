@@ -110,7 +110,7 @@
 **Stondy**
 
 [![Email](https://img.shields.io/badge/Email-stondy0103%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stondy0103@gmail.com)
-[![Website](https://img.shields.io/badge/Website-stondy.store-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stondy.store)
+[![Website](https://img.shields.io/badge/Website-stondy.store-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stondy.store/augment?ref=github)
 [![GitHub](https://img.shields.io/badge/GitHub-stondy0103-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stondy0103)
 [![Zalo](https://img.shields.io/badge/Zalo-0969894840-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0969894840)
 [![Facebook](https://img.shields.io/badge/Facebook-stondystore-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/stondystore)
