@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 *Công cụ reset hệ thống Augment Code*
-(Still working now)
+(Still working for 0.496.1)
 
 </div>
 
