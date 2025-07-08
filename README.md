@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔧 Stondy Augment Reset Tool
+# 🔧 Stondy Augment Reset Tool (Only Support Vscode)
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![MacOS](https://img.shields.io/badge/MacOS-0078D6?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/macos/macos-sequoia/)
