@@ -6,7 +6,6 @@
 [![MacOS](https://img.shields.io/badge/MacOS-0078D6?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/macos/macos-sequoia/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-*Công cụ reset hệ thống Augment Code*
 (Still working for 0.516.3)
 
 </div>
